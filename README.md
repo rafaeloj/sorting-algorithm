@@ -1,1 +1,2 @@
-# sorting-algorithm
+# Sorting Algorithm
+This repository has the objective to learn and construct a visual representation of many sort algorithms. I'm also concentrating the knowledge of all of them, for making learning simple for the other people.
